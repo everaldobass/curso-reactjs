@@ -1,11 +1,12 @@
 // Importar componentes CreateRoot
 import {createRoot} from "react-dom/client";
 import PrimeiroComponente from "./components/PrimeiroComponente";
-import Imagem from "./components/imagen";
+import Imagem from "./components/Imagem";
+import Estilo from "./components/Estilo";
 
 
 // Exibir os componentes
 createRoot(document.getElementById("root")).render(
 
-    <Imagem />
+    <Estilo />
 );

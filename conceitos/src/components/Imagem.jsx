@@ -1,5 +1,5 @@
 // Importar imagens
-import react from "../imagens/react.jpg";
+import react from "../assets/imagens/react.jpg";
 
 // Componentes
 function Imagem(){

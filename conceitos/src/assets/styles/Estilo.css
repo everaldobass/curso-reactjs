@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.azul{
+    color: rgb(27, 87, 199);
+}
+
+.verde{
+    color:  green;
+}
+
+.laranja{
+    color: orange;
+}

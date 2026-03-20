@@ -33,4 +33,17 @@ npm create vite@latest
 - 11-Estrutura de repetição
 - 12-Eventos
 - 13-Funções
-- 14-
+- 14-UseState
+- 15-Activity
+- 16-Manipular formulários 1
+- 17-Manipular formulários 2
+- 18-Props
+  
+### Bibliotecas:
+
+- 19-User Interface 
+- https://www.heroui.com/
+- https://ant.design/
+- https://primereact.org/
+  
+- 20-Considerações final
